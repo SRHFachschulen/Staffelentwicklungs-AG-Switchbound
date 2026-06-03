@@ -314,6 +314,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1471660723, guid: 248c3d0a14fa26244a0c65df9de20cae, type: 3}
     - target: {fileID: 3238677133877398107, guid: 70b4d3ec022dbd04cb5be4d9608b84b1, type: 3}
+      propertyPath: MovePoints.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3238677133877398107, guid: 70b4d3ec022dbd04cb5be4d9608b84b1, type: 3}
       propertyPath: 'MovePoints.Array.data[2]'
       value: 
       objectReference: {fileID: 0}
@@ -4220,6 +4224,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 6655497211416048863, guid: 248c3d0a14fa26244a0c65df9de20cae, type: 3}
+    - target: {fileID: 3238677133877398107, guid: 70b4d3ec022dbd04cb5be4d9608b84b1, type: 3}
+      propertyPath: MovePoints.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3533706333448639768, guid: 70b4d3ec022dbd04cb5be4d9608b84b1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.5
